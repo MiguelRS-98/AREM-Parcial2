@@ -55,6 +55,8 @@ Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente
 ![Imagen](Images/Image4.jpg)<br>
 ### Implementación Instace AWS
 ![Imagen](Images/Image5.jpg)<br>
+### Video
+![Video AWS](AWS.mp4)<br>
 
 ## Ejecución - EC2 
 Siga tal cual y en orden los siguientes comandos
