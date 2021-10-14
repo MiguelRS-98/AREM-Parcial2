@@ -49,3 +49,14 @@ Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente
 ![Imagen](Images/Image2.jpg)<br>
 ### Exp e 
 ![Imagen](Images/Image3.jpg)<br>
+
+## Ejecución - EC2 
+Siga tal cual y en orden los siguientes comandos
+> sudo yum update -y
+<br>
+> sudo yum install docker
+<br>
+> sudo service docker start
+<br>
+> docker run -d -p 42000:6000 --name firstdockerimageaws (Repositorio de DockerHub)
+<br>
