@@ -50,6 +50,12 @@ Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente
 ### Exp e 
 ![Imagen](Images/Image3.jpg)<br>
 
+## FUNCIONAMIENTO SERVICE
+### Implementación Docker
+![Imagen](Images/Image4.jpg)<br>
+### Implementación Instace AWS
+![Imagen](Images/Image5.jpg)<br>
+
 ## Ejecución - EC2 
 Siga tal cual y en orden los siguientes comandos
 > - sudo yum update -y

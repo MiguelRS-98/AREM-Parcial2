@@ -2,16 +2,16 @@ version: '2'
 
 
 services:
-    web:
+    web1:
         build:
             context: .
             dockerfile: Dockerfile
-        container_name: web
+        container_name: web1
         ports:
             - "8087:6000"
-    db:
+    db1:
         image: mongo:3.6.1
-        container_name: db
+        container_name: db1
         volumes:
             - mongodb:/data/db
             - mongodb_config:/data/configdb
