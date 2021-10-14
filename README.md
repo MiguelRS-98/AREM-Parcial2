@@ -52,11 +52,7 @@ Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente
 
 ## Ejecución - EC2 
 Siga tal cual y en orden los siguientes comandos
-> sudo yum update -y
-<br>
-> sudo yum install docker
-<br>
-> sudo service docker start
-<br>
-> docker run -d -p 42000:6000 --name firstdockerimageaws (Repositorio de DockerHub)
-<br>
+> - sudo yum update -y
+> - sudo yum install docker
+> - sudo service docker start
+> - docker run -d -p 42000:6000 --name firstdockerimageaws (Repositorio de DockerHub)
