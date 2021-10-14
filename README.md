@@ -56,3 +56,6 @@ Siga tal cual y en orden los siguientes comandos
 > - sudo yum install docker
 > - sudo service docker start
 > - docker run -d -p 42000:6000 --name firstdockerimageaws (Repositorio de DockerHub)
+
+## Llaves de AWS - Instancia:
+[Keys pairs](secarep.pem)
